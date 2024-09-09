@@ -69,4 +69,7 @@ fun main(args: Array<String>) {
     val robot = Robot()
     robot.eat()
     println(robot is Animal)
+
+    println(Phone.manufacturer)
+    println(Phone.origin)
 }
