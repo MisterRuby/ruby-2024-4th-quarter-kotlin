@@ -31,6 +31,4 @@ fun main() {
     val printFunc = { x: Int, y: Int -> println(x + y) }
     printFunc.invoke(11, 1)
     printFunc(11, 1)
-
-    result[i]
 }
