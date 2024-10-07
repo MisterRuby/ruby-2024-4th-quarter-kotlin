@@ -1,0 +1,5 @@
+- StandardOpenOption
+  - READ : 파일을 읽기용으로 연다.
+  - WRITE : 파일을 쓰기용으로 연다.
+  - APPEND : 파일이 존재하면 마지막에 추가한다.
+  - CREATE : 파일이 없으면 새 파일을 생성한다.
